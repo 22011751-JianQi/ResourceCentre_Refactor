@@ -91,7 +91,7 @@ public class ResourceCentre {
 
 	}
 	
-	// JianQi - Extract Method
+	// JianQi - ExtractMethod
 	public static void itemTypeMenu() {
 		ResourceCentre.setHeader("ITEM TYPES");
 		System.out.println("1. Camcorder");
