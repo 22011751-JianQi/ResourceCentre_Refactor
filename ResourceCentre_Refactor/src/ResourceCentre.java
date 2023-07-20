@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class ResourceCentre {
-	//Hamzah
+	//Hamzah - Extract Constant
 	private static final int ITEM_TYPE_CHROMEBOOK = 2;
 	private static final int ITEM_TYPE_CAMCORDER = 1;
 	private static final int OPTION_RETURN = 4;
